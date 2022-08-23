@@ -1,0 +1,15 @@
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\obj\Debug\net6.0\Flyt_hjemmefra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\obj\Debug\net6.0\Flyt_hjemmefra.AssemblyInfoInputs.cache
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\obj\Debug\net6.0\Flyt_hjemmefra.AssemblyInfo.cs
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\obj\Debug\net6.0\Flyt_hjemmefra.csproj.CoreCompileInputs.cache
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\bin\Debug\net6.0\Flyt_hjemmefra.exe
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\bin\Debug\net6.0\Flyt_hjemmefra.deps.json
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\bin\Debug\net6.0\Flyt_hjemmefra.runtimeconfig.json
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\bin\Debug\net6.0\Flyt_hjemmefra.dll
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\bin\Debug\net6.0\ref\Flyt_hjemmefra.dll
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\bin\Debug\net6.0\Flyt_hjemmefra.pdb
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\obj\Debug\net6.0\Flyt_hjemmefra.dll
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\obj\Debug\net6.0\ref\Flyt_hjemmefra.dll
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\obj\Debug\net6.0\Flyt_hjemmefra.pdb
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\obj\Debug\net6.0\Flyt_hjemmefra.genruntimeconfig.cache
+C:\Users\Niclas\OneDrive - TECHCOLLEGE\Programmering\Flyt_hjemmefra\Flyt_hjemmefra\obj\Debug\net6.0\Flyt_hjemmefra.csproj.AssemblyReference.cache
